@@ -2,7 +2,7 @@
   <div class="wiki-container">
     <!-- 头部导航 -->
     <header class="wiki-header">
-      <div class="logo">🎣 自由路亚百科 (Lure Wiki)</div>
+      <div class="logo">🎣 自由路亚百科 (Lure Wiki blake)</div>
       <p class="subtitle">全面、专业的路亚拟饵与钓法新手指南</p>
     </header>
 
